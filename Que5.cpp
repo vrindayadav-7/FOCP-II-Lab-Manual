@@ -1,3 +1,4 @@
+//Date- 27/01/2026
 //Solution to swap numbers
 
 #include<iostream>
@@ -15,4 +16,5 @@ b = temp;
 cout <<"\nAfter swap: a = "<< a << ", b= "<<b;
 
     return 0;
+
 }
