@@ -1,3 +1,4 @@
+//Date- 27-01-2026
 //Implement a solution to compute bill amount after applying 20% discount.
 
 #include<iostream>
@@ -18,4 +19,5 @@ discount = (quantity*unit_price)*0.2;
 cout <<"Bill amount: "<<(quantity*unit_price)-discount;
 
     return 0;
+
 }
