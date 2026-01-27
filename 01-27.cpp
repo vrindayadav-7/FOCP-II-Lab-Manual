@@ -1,4 +1,4 @@
-//Solution to compute area of circular fountain.
+//que.2- Solution to compute area of circular fountain.
 
 #include<iostream>
 using namespace std;
@@ -15,4 +15,5 @@ cout<< "Area of fountain: "<<area;
 
 
     return 0;
+
 }
